@@ -1,0 +1,4 @@
+102230031,Ngo The Ngoc,Manager,3,10000000
+102230032,Tran Anh Duc,Technoloci,2,100000000
+102230033,Tran Bao Tran,Office,1,1000000
+102230034,nguyen Tran Chau Anh,Quan ly ,2,10000000
